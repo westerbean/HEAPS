@@ -9,11 +9,11 @@ This repository contains a collection of algorithms and solutions to various Lee
 - Last Stone Weight
 - Design Twitter
 
-# Languages
+ Languages
 
 - Python
 
-# Data Structures
+ Data Structures
 
 - Heap (max heap and min heap)
 - Priority Queue
@@ -21,18 +21,23 @@ This repository contains a collection of algorithms and solutions to various Lee
 - List
 - Set
 
-# Algorithms
+ Algorithms
 
 - Heapify
 - QuickSelect
 - QuickSort
 - Priority Queue operations (insert, delete, heapify)
 
-# LeetCode Problems
+ LeetCode Problems
 
 https://leetcode.com/problems/kth-largest-element-in-a-stream/
+
 https://leetcode.com/problems/last-stone-weight/
+
 https://leetcode.com/problems/k-closest-points-to-origin/
+
 https://leetcode.com/problems/kth-largest-element-in-an-array/
+
 https://leetcode.com/problems/task-scheduler/
+
 https://leetcode.com/problems/design-twitter/
